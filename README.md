@@ -5,10 +5,7 @@ Welcome to the Tic Tac Toe Game! This project is a classic implementation of the
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 - **Two-player mode:** Play with a friend locally on the same machine.
